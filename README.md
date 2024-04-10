@@ -3,6 +3,8 @@ virtual-receptionist-api
 
 ### Accommodation management application's backend.
 
+[![Continuous integration](https://github.com/Virtual-Receptionist/virtual-receptionist-api/actions/workflows/build.yml/badge.svg)](https://github.com/Virtual-Receptionist/virtual-receptionist-api/actions/workflows/build.yml)
+
 [Contributing Guide](.github/CONTRIBUTING.md)
 
 Prerequisites
