@@ -4,8 +4,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
 
 @SpringBootApplication
-class VirtualReceptionistApiApplication
+class Application
 
 fun main(args: Array<String>) {
-    runApplication<VirtualReceptionistApiApplication>(*args)
+    runApplication<Application>(*args)
 }
