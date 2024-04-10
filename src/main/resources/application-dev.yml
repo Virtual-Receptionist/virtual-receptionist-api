@@ -3,4 +3,4 @@ spring:
     name: virtual-receptionist-api
   config:
     activate:
-      on-profile: default
+      on-profile: dev
