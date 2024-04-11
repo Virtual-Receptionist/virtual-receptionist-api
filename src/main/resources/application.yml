@@ -17,3 +17,8 @@ spring:
     defer-datasource-initialization: true
     hibernate:
       ddl-auto: none
+  graphql:
+    graphiql:
+      enabled: true
+    cors:
+      allowed-origins: "*"
