@@ -1,0 +1,15 @@
+type Query {
+    accommodation: Accommodation
+}
+
+type Accommodation {
+    ntakId: String!
+    name: String!
+    company: String!
+    vatNumber: String!
+    contact: String!
+    headquarters: String!
+    site: String!
+    phone: String!
+    email: String!
+}

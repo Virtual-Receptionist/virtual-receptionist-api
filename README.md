@@ -23,3 +23,5 @@ TODO.
 Note that:
 
 - The **default** Spring profile is configured with an H2 in-memory database for passing the Continuous integration GitHub check. In case you need to use this, you can manage it in the [H2 Console](http://localhost:8080/h2-console).
+
+#### To view GraphQL queries and mutations, open [GraphiQL](http://localhost:8080/graphiql) in your web browser.
