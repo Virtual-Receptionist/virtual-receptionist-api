@@ -20,7 +20,7 @@
     <properties>
         <!-- Language versions -->
         <java.version>17</java.version>
-        <kotlin.version>1.9.23</kotlin.version>
+        <kotlin.version>1.9.24</kotlin.version>
 
         <!-- Maven plugin versions -->
         <ktlint.version>2.0.0</ktlint.version>
